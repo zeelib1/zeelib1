@@ -1,7 +1,4 @@
-### . 👋
-
-
-Here are some ideas to get you started:
+### Hi, I'm Zee. :stuck_out_tongue:
 
 - 🔭 I’m currently working on Web scrapping with JS
 - 🌱 I’m currently learning advanced UI/UX
