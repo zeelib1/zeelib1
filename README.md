@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[zeelib](https://zeelib.com)
 - 😄 Technologies: HTML, CSS, Javascript, React, Python, Flask,Node.js 
-- :kissing_heart: Fun Fact - Always be dead serious about fun facts
