@@ -1,4 +1,6 @@
-### Hi, I'm 𝓩𝓮𝓮 .
+### Hi, I'm 𝓩𝓮𝓮 . 
+<img src="https://media.giphy.com/media/hv5AEBpH3ZyNoRnABG/giphy.gif" alt="Cat as Donald Knuth" width="200">
+
 
 - 🔭 I’m currently working on Web scrapping with JS
 - 🌱 I’m currently learning advanced UI/UX, algos and ds
