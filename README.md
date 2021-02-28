@@ -1,4 +1,4 @@
-### Hi, I'm 𝓩𝓮𝓮
+### Hi, I'm 𝓩𝓮𝓮 .
 
 - 🔭 I’m currently working on Web scrapping with JS
 - 🌱 I’m currently learning advanced UI/UX, algos and ds
