@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate in React.js
 - 💬 Ask me about ...Anything
 - :mailbox_with_mail: Part of Projects and Contact @  [**Zeelib**](https://zeelib.com)
-- :construction_worker: Technologies: HTML, CSS, Javascript, React, Python, Flask,Node.js, SQL 
+- :computer: Technologies: HTML, CSS, Javascript, React, Python, Flask,Node.js, SQL 
