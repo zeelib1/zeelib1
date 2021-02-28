@@ -1,4 +1,4 @@
-### Hi, I'm <img src="https://imgur.com/poODpwa" title="Z" alt="Z" width="80">  <img src="https://imgur.com/9lDkBHS" title="e" alt="e" width="80">  <img src="https://imgur.com/9lDkBHS" title="e" alt="e" width="80"> .
+### Hi, I'm 𝓩𝓮𝓮
 
 - 🔭 I’m currently working on Web scrapping with JS
 - 🌱 I’m currently learning advanced UI/UX, algos and ds
