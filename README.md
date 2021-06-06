@@ -5,5 +5,4 @@
 - :hammer_and_wrench: I’m currently working on Web Scrapping with JS
 - :paintbrush: I’m currently learning advanced UI/UX
 - 👯 I’m looking to collaborate in Web related problems
-- :mailbox_with_mail: Part of Projects and Contact @  [**Zeelib**](https://zeelib.com)
 - :computer: Technologies: HTML, CSS, Javascript, React, Python, Flask,Node.js, SQL 
